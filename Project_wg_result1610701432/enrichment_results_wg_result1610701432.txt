@@ -1,0 +1,11 @@
+geneSet	description	link	size	overlap	expect	enrichmentRatio	pValue	FDR	overlapId	userId
+GO:0006751	glutathione catabolic process	http://amigo.geneontology.org/amigo/term/GO:0006751	6	2	0.017065205941219845	117.19753086419753	1.1823404659383474e-4	1	14598;69065	Ggt1;Chac1
+GO:0070327	thyroid hormone transport	http://amigo.geneontology.org/amigo/term/GO:0070327	9	2	0.025597808911829768	78.13168724279836	2.822114849996282e-4	1	12971;22139	Crym;Ttr
+GO:0016485	protein processing	http://amigo.geneontology.org/amigo/term/GO:0016485	220	5	0.6257242178447276	7.990740740740741	3.9779112980531384e-4	1	13034;14598;21367;50528;69065	Ctse;Tmprss2;Cntn2;Ggt1;Chac1
+GO:0030216	keratinocyte differentiation	http://amigo.geneontology.org/amigo/term/GO:0030216	131	4	0.3725903297166333	10.735651682216568	5.241326098073262e-4	1	11688;15218;16680;93746	Gprc5d;Alox8;Foxn1;Krt84
+GO:0016540	protein autoprocessing	http://amigo.geneontology.org/amigo/term/GO:0016540	14	2	0.03981881386284631	50.22751322751323	7.068893026669354e-4	1	13034;50528	Ctse;Tmprss2
+GO:0097284	hepatocyte apoptotic process	http://amigo.geneontology.org/amigo/term/GO:0097284	17	2	0.04835141683345623	41.36383442265795	0.0010506872013918978	1	16668;16691	Krt8;Krt18
+GO:0051604	protein maturation	http://amigo.geneontology.org/amigo/term/GO:0051604	283	5	0.804908880227536	6.211883261353226	0.0012368226650882885	1	13034;14598;21367;50528;69065	Ctse;Tmprss2;Cntn2;Ggt1;Chac1
+GO:0045682	regulation of epidermis development	http://amigo.geneontology.org/amigo/term/GO:0045682	76	3	0.2161592752554514	13.878654970760234	0.0013202875523871116	1	11688;15218;16680	Alox8;Foxn1;Krt84
+GO:0042219	cellular modified amino acid catabolic process	http://amigo.geneontology.org/amigo/term/GO:0042219	21	2	0.05972822079426946	33.48500881834215	0.0016106035103611305	1	14598;69065	Ggt1;Chac1
+GO:0006720	isoprenoid metabolic process	http://amigo.geneontology.org/amigo/term/GO:0006720	85	3	0.24175708416728114	12.409150326797386	0.0018218504139950742	1	22139;79235;320581	Lrat;Idi2;Ttr

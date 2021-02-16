@@ -1,0 +1,1359 @@
+{"overrepresentation": {
+    "reference": "",
+    "upload_lists": {"input_list": {
+        "organism": "Homo sapiens",
+        "list_name": "upload_1"
+    }},
+    "tool_release_date": 20200728,
+    "data_version_release_date": "GO Ontology database DOI:  10.5281/zenodo.4081749 Released 2020-10-09",
+    "annotation_type": "GO biological process complete",
+    "correction": "FDR",
+    "test_type": "FISHER",
+    "group": [
+        {"result": [
+            {
+                "input_list": {
+                    "number_in_list": 2,
+                    "fold_enrichment": 1158.388888888889,
+                    "fdr": 0.001856024386118968,
+                    "expected": 0.00172653589755887,
+                    "pValue": 4.211590160748998E-6,
+                    "mapped_id_list": {"mapped_id": [
+                        "Tnnt2",
+                        "Tnnc1"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 2,
+                "term": {
+                    "level": 0,
+                    "id": "GO:0032972",
+                    "label": "regulation of muscle filament sliding speed"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 2,
+                    "fold_enrichment": 579.1944444444445,
+                    "fdr": 0.003973130359903703,
+                    "expected": 0.00345307179511774,
+                    "pValue": 1.0518214630693699E-5,
+                    "mapped_id_list": {"mapped_id": [
+                        "Tnnt2",
+                        "Tnnc1"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 4,
+                "term": {
+                    "level": 1,
+                    "id": "GO:0032971",
+                    "label": "regulation of muscle filament sliding"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 4,
+                    "fold_enrichment": 28.602194787379972,
+                    "fdr": 0.0039958218518767194,
+                    "expected": 0.13984940770226847,
+                    "pValue": 1.0830150622798547E-5,
+                    "mapped_id_list": {"mapped_id": [
+                        "Tnnt2",
+                        "Tnnc1",
+                        "Tnni1"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 162,
+                "term": {
+                    "level": 2,
+                    "id": "GO:0006937",
+                    "label": "regulation of muscle contraction"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 4,
+                    "fold_enrichment": 20.23386705482775,
+                    "fdr": 0.01300136954557388,
+                    "expected": 0.19768836027049064,
+                    "pValue": 4.097500644681336E-5,
+                    "mapped_id_list": {"mapped_id": [
+                        "Tnnt2",
+                        "Tnnc1",
+                        "Tnni1"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 229,
+                "term": {
+                    "level": 3,
+                    "id": "GO:0090257",
+                    "label": "regulation of muscle system process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 5,
+                    "fold_enrichment": 9.883864239666288,
+                    "fdr": 0.030901525227863394,
+                    "expected": 0.5058750179847489,
+                    "pValue": 1.1297122365055638E-4,
+                    "mapped_id_list": {"mapped_id": [
+                        "Myl4",
+                        "Tnnt2",
+                        "Tnnc1",
+                        "Tnni1"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 586,
+                "term": {
+                    "level": 4,
+                    "id": "GO:0044057",
+                    "label": "regulation of system process"
+                }
+            }
+        ]},
+        {"result": [
+            {
+                "input_list": {
+                    "number_in_list": 2,
+                    "fold_enrichment": 772.2592592592594,
+                    "fdr": 0.002853962596764869,
+                    "expected": 0.002589803846338305,
+                    "pValue": 7.01572904341821E-6,
+                    "mapped_id_list": {"mapped_id": "Tdh"},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 3,
+                "term": {
+                    "level": 0,
+                    "id": "GO:0009097",
+                    "label": "isoleucine biosynthetic process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 2,
+                    "fold_enrichment": 463.35555555555555,
+                    "fdr": 0.005306833137424734,
+                    "expected": 0.004316339743897175,
+                    "pValue": 1.4717974033828447E-5,
+                    "mapped_id_list": {"mapped_id": "Tdh"},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 5,
+                "term": {
+                    "level": 1,
+                    "id": "GO:0009082",
+                    "label": "branched-chain amino acid biosynthetic process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 2,
+                    "fold_enrichment": 330.968253968254,
+                    "fdr": 0.008508037821431707,
+                    "expected": 0.006042875641456045,
+                    "pValue": 2.520502852866626E-5,
+                    "mapped_id_list": {"mapped_id": "Tdh"},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 7,
+                "term": {
+                    "level": 1,
+                    "id": "GO:0006549",
+                    "label": "isoleucine metabolic process"
+                }
+            }
+        ]},
+        {"result": [
+            {
+                "input_list": {
+                    "number_in_list": 3,
+                    "fold_enrichment": 695.0333333333333,
+                    "fdr": 2.9835681761463972E-5,
+                    "expected": 0.004316339743897175,
+                    "pValue": 3.00895624445902E-8,
+                    "mapped_id_list": {"mapped_id": "Tdh"},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 5,
+                "term": {
+                    "level": 0,
+                    "id": "GO:0019518",
+                    "label": "L-threonine catabolic process to glycine"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 3,
+                    "fold_enrichment": 695.0333333333333,
+                    "fdr": 3.182472721222824E-5,
+                    "expected": 0.004316339743897175,
+                    "pValue": 3.00895624445902E-8,
+                    "mapped_id_list": {"mapped_id": "Tdh"},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 5,
+                "term": {
+                    "level": 1,
+                    "id": "GO:0006567",
+                    "label": "threonine catabolic process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 3,
+                    "fold_enrichment": 579.1944444444445,
+                    "fdr": 4.2098252506602015E-5,
+                    "expected": 0.00517960769267661,
+                    "pValue": 4.5110008989110264E-8,
+                    "mapped_id_list": {"mapped_id": "Tdh"},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 6,
+                "term": {
+                    "level": 2,
+                    "id": "GO:0006566",
+                    "label": "threonine metabolic process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 3,
+                    "fold_enrichment": 59.91666666666667,
+                    "fdr": 0.006625566313141913,
+                    "expected": 0.05006954102920723,
+                    "pValue": 1.8792970948086105E-5,
+                    "mapped_id_list": {"mapped_id": "Tdh"},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 58,
+                "term": {
+                    "level": 3,
+                    "id": "GO:0009066",
+                    "label": "aspartate family amino acid metabolic process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 3,
+                    "fold_enrichment": 151.09420289855072,
+                    "fdr": 7.316510717618988E-4,
+                    "expected": 0.019855162821927005,
+                    "pValue": 1.3835192028274167E-6,
+                    "mapped_id_list": {"mapped_id": "Tdh"},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 23,
+                "term": {
+                    "level": 2,
+                    "id": "GO:0009068",
+                    "label": "aspartate family amino acid catabolic process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 3,
+                    "fold_enrichment": 33.096825396825395,
+                    "fdr": 0.028928841680005955,
+                    "expected": 0.09064313462184068,
+                    "pValue": 1.0393595813175792E-4,
+                    "mapped_id_list": {"mapped_id": "Tdh"},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 105,
+                "term": {
+                    "level": 3,
+                    "id": "GO:1901606",
+                    "label": "alpha-amino acid catabolic process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 3,
+                    "fold_enrichment": 28.0255376344086,
+                    "fdr": 0.044419583124963496,
+                    "expected": 0.10704522564864995,
+                    "pValue": 1.6799085959645822E-4,
+                    "mapped_id_list": {"mapped_id": "Tdh"},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 124,
+                "term": {
+                    "level": 4,
+                    "id": "GO:0009063",
+                    "label": "cellular amino acid catabolic process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 4,
+                    "fold_enrichment": 17.354140657511444,
+                    "fdr": 0.02088858557500561,
+                    "expected": 0.23049254232410915,
+                    "pValue": 7.373216465176894E-5,
+                    "mapped_id_list": {"mapped_id": [
+                        "Akr1d1",
+                        "Tdh"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 267,
+                "term": {
+                    "level": 5,
+                    "id": "GO:0046395",
+                    "label": "carboxylic acid catabolic process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 4,
+                    "fold_enrichment": 17.354140657511444,
+                    "fdr": 0.02126837804000571,
+                    "expected": 0.23049254232410915,
+                    "pValue": 7.373216465176894E-5,
+                    "mapped_id_list": {"mapped_id": [
+                        "Akr1d1",
+                        "Tdh"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 267,
+                "term": {
+                    "level": 6,
+                    "id": "GO:0016054",
+                    "label": "organic acid catabolic process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 3,
+                    "fold_enrichment": 217.19791666666666,
+                    "fdr": 3.041245710921885E-4,
+                    "expected": 0.01381228718047096,
+                    "pValue": 5.175772719501474E-7,
+                    "mapped_id_list": {"mapped_id": "Tdh"},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 16,
+                "term": {
+                    "level": 1,
+                    "id": "GO:0006544",
+                    "label": "glycine metabolic process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 3,
+                    "fold_enrichment": 86.87916666666666,
+                    "fdr": 0.002716669099799055,
+                    "expected": 0.0345307179511774,
+                    "pValue": 6.50699185580612E-6,
+                    "mapped_id_list": {"mapped_id": "Tdh"},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 40,
+                "term": {
+                    "level": 2,
+                    "id": "GO:0009069",
+                    "label": "serine family amino acid metabolic process"
+                }
+            }
+        ]},
+        {"result": [
+            {
+                "input_list": {
+                    "number_in_list": 2,
+                    "fold_enrichment": 330.968253968254,
+                    "fdr": 0.008330787033485212,
+                    "expected": 0.006042875641456045,
+                    "pValue": 2.520502852866626E-5,
+                    "mapped_id_list": {"mapped_id": [
+                        "Tnnc1",
+                        "Tnni1"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 7,
+                "term": {
+                    "level": 0,
+                    "id": "GO:0014883",
+                    "label": "transition between fast and slow fiber"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 2,
+                    "fold_enrichment": 178.2136752136752,
+                    "fdr": 0.02153219592202113,
+                    "expected": 0.011222483334132656,
+                    "pValue": 7.328954174529726E-5,
+                    "mapped_id_list": {"mapped_id": [
+                        "Tnnc1",
+                        "Tnni1"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 13,
+                "term": {
+                    "level": 1,
+                    "id": "GO:0014733",
+                    "label": "regulation of skeletal muscle adaptation"
+                }
+            }
+        ]},
+        {"result": [
+            {
+                "input_list": {
+                    "number_in_list": 7,
+                    "fold_enrichment": 213.38742690058479,
+                    "fdr": 3.2942844952388866E-11,
+                    "expected": 0.032804182053618534,
+                    "pValue": 4.1528956763175374E-15,
+                    "mapped_id_list": {"mapped_id": [
+                        "Myl4",
+                        "Tnnt2",
+                        "Tnnc1",
+                        "Myh3",
+                        "Myh8",
+                        "Tnni1"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 38,
+                "term": {
+                    "level": 0,
+                    "id": "GO:0030049",
+                    "label": "muscle filament sliding"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 7,
+                    "fold_enrichment": 213.38742690058479,
+                    "fdr": 6.588568990477773E-11,
+                    "expected": 0.032804182053618534,
+                    "pValue": 4.1528956763175374E-15,
+                    "mapped_id_list": {"mapped_id": [
+                        "Myl4",
+                        "Tnnt2",
+                        "Tnnc1",
+                        "Myh3",
+                        "Myh8",
+                        "Tnni1"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 38,
+                "term": {
+                    "level": 1,
+                    "id": "GO:0033275",
+                    "label": "actin-myosin filament sliding"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 7,
+                    "fold_enrichment": 87.1905615292712,
+                    "fdr": 7.552418171029015E-9,
+                    "expected": 0.08028391923648746,
+                    "pValue": 1.4281282390852217E-12,
+                    "mapped_id_list": {"mapped_id": [
+                        "Myl4",
+                        "Tnnt2",
+                        "Tnnc1",
+                        "Myh3",
+                        "Myh8",
+                        "Tnni1"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 93,
+                "term": {
+                    "level": 2,
+                    "id": "GO:0070252",
+                    "label": "actin-mediated cell contraction"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 7,
+                    "fold_enrichment": 65.9245709123758,
+                    "fdr": 2.9491392858750998E-8,
+                    "expected": 0.1061819576998705,
+                    "pValue": 9.29448246415096E-12,
+                    "mapped_id_list": {"mapped_id": [
+                        "Myl4",
+                        "Tnnt2",
+                        "Tnnc1",
+                        "Myh3",
+                        "Myh8",
+                        "Tnni1"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 123,
+                "term": {
+                    "level": 3,
+                    "id": "GO:0030048",
+                    "label": "actin filament-based movement"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 7,
+                    "fold_enrichment": 13.249546114742193,
+                    "fdr": 2.966489894214437E-4,
+                    "expected": 0.5283199846530142,
+                    "pValue": 4.674582247422687E-7,
+                    "mapped_id_list": {"mapped_id": [
+                        "Myl4",
+                        "Tnnt2",
+                        "Tnnc1",
+                        "Myh3",
+                        "Myh8",
+                        "Tnni1"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 612,
+                "term": {
+                    "level": 4,
+                    "id": "GO:0030029",
+                    "label": "actin filament-based process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 9,
+                    "fold_enrichment": 6.520012507817386,
+                    "fdr": 0.0011541044720477561,
+                    "expected": 1.3803654500983167,
+                    "pValue": 2.4005954981138327E-6,
+                    "mapped_id_list": {"mapped_id": [
+                        "Myl4",
+                        "Cthrc1",
+                        "Tnnt2",
+                        "Tnnc1",
+                        "Myh3",
+                        "Myh8",
+                        "Dclk1",
+                        "Tnni1"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 1599,
+                "term": {
+                    "level": 4,
+                    "id": "GO:0006928",
+                    "label": "movement of cell or subcellular component"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 7,
+                    "fold_enrichment": 32.9622854561879,
+                    "fdr": 1.7735559717411398E-6,
+                    "expected": 0.212363915399741,
+                    "pValue": 1.0061143237107001E-9,
+                    "mapped_id_list": {"mapped_id": [
+                        "Myl4",
+                        "Tnnt2",
+                        "Tnnc1",
+                        "Myh3",
+                        "Myh8",
+                        "Tnni1"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 246,
+                "term": {
+                    "level": 1,
+                    "id": "GO:0006936",
+                    "label": "muscle contraction"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 7,
+                    "fold_enrichment": 27.580687830687832,
+                    "fdr": 5.337503099091717E-6,
+                    "expected": 0.2538007769411539,
+                    "pValue": 3.36432593702598E-9,
+                    "mapped_id_list": {"mapped_id": [
+                        "Myl4",
+                        "Tnnt2",
+                        "Tnnc1",
+                        "Myh3",
+                        "Myh8",
+                        "Tnni1"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 294,
+                "term": {
+                    "level": 2,
+                    "id": "GO:0003012",
+                    "label": "muscle system process"
+                }
+            }
+        ]},
+        {"result": [
+            {
+                "input_list": {
+                    "number_in_list": 5,
+                    "fold_enrichment": 193.0648148148148,
+                    "fdr": 2.196197614754593E-7,
+                    "expected": 0.025898038463383052,
+                    "pValue": 8.305821423591275E-11,
+                    "mapped_id_list": {"mapped_id": [
+                        "Tnnc1",
+                        "Myh3",
+                        "Myh8",
+                        "Tnni1"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 30,
+                "term": {
+                    "level": 0,
+                    "id": "GO:0003009",
+                    "label": "skeletal muscle contraction"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 7,
+                    "fold_enrichment": 73.71565656565656,
+                    "fdr": 1.741158741921815E-8,
+                    "expected": 0.09495947436573786,
+                    "pValue": 4.389936947801614E-12,
+                    "mapped_id_list": {"mapped_id": [
+                        "Myl4",
+                        "Tnnt2",
+                        "Tnnc1",
+                        "Myh3",
+                        "Myh8",
+                        "Tnni1"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 110,
+                "term": {
+                    "level": 1,
+                    "id": "GO:0006941",
+                    "label": "striated muscle contraction"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 5,
+                    "fold_enrichment": 131.63510101010098,
+                    "fdr": 1.0977329857036072E-6,
+                    "expected": 0.03798378974629515,
+                    "pValue": 4.843448408399149E-10,
+                    "mapped_id_list": {"mapped_id": [
+                        "Tnnc1",
+                        "Myh3",
+                        "Myh8",
+                        "Tnni1"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 44,
+                "term": {
+                    "level": 1,
+                    "id": "GO:0050881",
+                    "label": "musculoskeletal movement"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 5,
+                    "fold_enrichment": 131.63510101010098,
+                    "fdr": 9.605163624906563E-7,
+                    "expected": 0.03798378974629515,
+                    "pValue": 4.843448408399149E-10,
+                    "mapped_id_list": {"mapped_id": [
+                        "Tnnc1",
+                        "Myh3",
+                        "Myh8",
+                        "Tnni1"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 44,
+                "term": {
+                    "level": 2,
+                    "id": "GO:0050879",
+                    "label": "multicellular organismal movement"
+                }
+            }
+        ]},
+        {"result": [
+            {
+                "input_list": {
+                    "number_in_list": 2,
+                    "fold_enrichment": 128.70987654320987,
+                    "fdr": 0.0355700566667983,
+                    "expected": 0.015538823078029831,
+                    "pValue": 1.322807023851938E-4,
+                    "mapped_id_list": {"mapped_id": [
+                        "Tnnt2",
+                        "Tnnc1"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 18,
+                "term": {
+                    "level": 0,
+                    "id": "GO:0032780",
+                    "label": "negative regulation of ATPase activity"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 4,
+                    "fold_enrichment": 58.65260196905767,
+                    "fdr": 3.731767795183811E-4,
+                    "expected": 0.06819816795357536,
+                    "pValue": 6.821384561004131E-7,
+                    "mapped_id_list": {"mapped_id": [
+                        "Myl4",
+                        "Tnnt2",
+                        "Tnnc1"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 79,
+                "term": {
+                    "level": 1,
+                    "id": "GO:0043462",
+                    "label": "regulation of ATPase activity"
+                }
+            }
+        ]},
+        {"result": [
+            {
+                "input_list": {
+                    "number_in_list": 4,
+                    "fold_enrichment": 96.53240740740742,
+                    "fdr": 8.105726454362185E-5,
+                    "expected": 0.04143686154141288,
+                    "pValue": 1.0218375612180504E-7,
+                    "mapped_id_list": {"mapped_id": [
+                        "Tnnt2",
+                        "Tnnc1",
+                        "Tnni1"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 48,
+                "term": {
+                    "level": 0,
+                    "id": "GO:0055010",
+                    "label": "ventricular cardiac muscle tissue morphogenesis"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 4,
+                    "fold_enrichment": 84.24646464646464,
+                    "fdr": 1.2341524039585804E-4,
+                    "expected": 0.04747973718286893,
+                    "pValue": 1.71139948862835E-7,
+                    "mapped_id_list": {"mapped_id": [
+                        "Tnnt2",
+                        "Tnnc1",
+                        "Tnni1"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 55,
+                "term": {
+                    "level": 1,
+                    "id": "GO:0003229",
+                    "label": "ventricular cardiac muscle tissue development"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 4,
+                    "fold_enrichment": 29.51309271054494,
+                    "fdr": 0.0038068020049985924,
+                    "expected": 0.1355330679583713,
+                    "pValue": 9.597988036554914E-6,
+                    "mapped_id_list": {"mapped_id": [
+                        "Tnnt2",
+                        "Tnnc1",
+                        "Tnni1"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 157,
+                "term": {
+                    "level": 2,
+                    "id": "GO:0048738",
+                    "label": "cardiac muscle tissue development"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 5,
+                    "fold_enrichment": 20.909546730846372,
+                    "fdr": 0.0015052122619605868,
+                    "expected": 0.2391252218119035,
+                    "pValue": 3.2257936909334984E-6,
+                    "mapped_id_list": {"mapped_id": [
+                        "Tnnt2",
+                        "Tnnc1",
+                        "Sox11",
+                        "Tnni1"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 277,
+                "term": {
+                    "level": 3,
+                    "id": "GO:0014706",
+                    "label": "striated muscle tissue development"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 5,
+                    "fold_enrichment": 19.835426179604262,
+                    "fdr": 0.0018833145620855245,
+                    "expected": 0.25207424104359505,
+                    "pValue": 4.1548067868259286E-6,
+                    "mapped_id_list": {"mapped_id": [
+                        "Tnnt2",
+                        "Tnnc1",
+                        "Sox11",
+                        "Tnni1"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 292,
+                "term": {
+                    "level": 4,
+                    "id": "GO:0060537",
+                    "label": "muscle tissue development"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 5,
+                    "fold_enrichment": 11.05332909245123,
+                    "fdr": 0.02003512690599388,
+                    "expected": 0.45235240516042396,
+                    "pValue": 6.693108893902777E-5,
+                    "mapped_id_list": {"mapped_id": [
+                        "Tnnt2",
+                        "Tnnc1",
+                        "Sox11",
+                        "Tnni1"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 524,
+                "term": {
+                    "level": 3,
+                    "id": "GO:0007507",
+                    "label": "heart development"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 6,
+                    "fold_enrichment": 7.979716800612324,
+                    "fdr": 0.01985416674595187,
+                    "expected": 0.7519063833868879,
+                    "pValue": 6.507511319190024E-5,
+                    "mapped_id_list": {"mapped_id": [
+                        "Tnnt2",
+                        "Tnnc1",
+                        "Sox11",
+                        "Col8a1",
+                        "Tnni1"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 871,
+                "term": {
+                    "level": 4,
+                    "id": "GO:0072359",
+                    "label": "circulatory system development"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 5,
+                    "fold_enrichment": 80.44367283950618,
+                    "fdr": 7.133316919800828E-6,
+                    "expected": 0.062155292312119324,
+                    "pValue": 4.945886298002465E-9,
+                    "mapped_id_list": {"mapped_id": [
+                        "Tnnt2",
+                        "Tnnc1",
+                        "Sox11",
+                        "Tnni1"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 72,
+                "term": {
+                    "level": 1,
+                    "id": "GO:0003208",
+                    "label": "cardiac ventricle morphogenesis"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 5,
+                    "fold_enrichment": 45.60586176727909,
+                    "fdr": 6.63195943940532E-5,
+                    "expected": 0.10963502949498825,
+                    "pValue": 7.524441847418579E-8,
+                    "mapped_id_list": {"mapped_id": [
+                        "Tnnt2",
+                        "Tnnc1",
+                        "Sox11",
+                        "Tnni1"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 127,
+                "term": {
+                    "level": 2,
+                    "id": "GO:0003231",
+                    "label": "cardiac ventricle development"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 5,
+                    "fold_enrichment": 33.871020142949966,
+                    "fdr": 2.0884602820460082E-4,
+                    "expected": 0.1476188192412834,
+                    "pValue": 3.1593474168990986E-7,
+                    "mapped_id_list": {"mapped_id": [
+                        "Tnnt2",
+                        "Tnnc1",
+                        "Sox11",
+                        "Tnni1"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 171,
+                "term": {
+                    "level": 3,
+                    "id": "GO:0003205",
+                    "label": "cardiac chamber development"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 5,
+                    "fold_enrichment": 45.24956597222222,
+                    "fdr": 6.524934069349673E-5,
+                    "expected": 0.11049829744376768,
+                    "pValue": 7.814292298622363E-8,
+                    "mapped_id_list": {"mapped_id": [
+                        "Tnnt2",
+                        "Tnnc1",
+                        "Sox11",
+                        "Tnni1"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 128,
+                "term": {
+                    "level": 2,
+                    "id": "GO:0003206",
+                    "label": "cardiac chamber morphogenesis"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 5,
+                    "fold_enrichment": 23.73747723132969,
+                    "fdr": 8.972130851527394E-4,
+                    "expected": 0.21063737950218214,
+                    "pValue": 1.7531424922618922E-6,
+                    "mapped_id_list": {"mapped_id": [
+                        "Tnnt2",
+                        "Tnnc1",
+                        "Sox11",
+                        "Tnni1"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 244,
+                "term": {
+                    "level": 3,
+                    "id": "GO:0003007",
+                    "label": "heart morphogenesis"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 7,
+                    "fold_enrichment": 8.342306812985827,
+                    "fdr": 0.0038220555909019164,
+                    "expected": 0.8390964462136108,
+                    "pValue": 9.877357656916392E-6,
+                    "mapped_id_list": {"mapped_id": [
+                        "Cthrc1",
+                        "Tnnt2",
+                        "Tnnc1",
+                        "Sox11",
+                        "Col8a1",
+                        "Tnni1"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 972,
+                "term": {
+                    "level": 4,
+                    "id": "GO:0009887",
+                    "label": "animal organ morphogenesis"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 9,
+                    "fold_enrichment": 4.777956003666361,
+                    "fdr": 0.009912188368539842,
+                    "expected": 1.8836506642367272,
+                    "pValue": 3.061438575849053E-5,
+                    "mapped_id_list": {"mapped_id": [
+                        "Cthrc1",
+                        "Tnnt2",
+                        "Tnnc1",
+                        "Myh3",
+                        "Sox11",
+                        "Col8a1",
+                        "Dclk1",
+                        "Tnni1"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 2182,
+                "term": {
+                    "level": 5,
+                    "id": "GO:0009653",
+                    "label": "anatomical structure morphogenesis"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 4,
+                    "fold_enrichment": 75.95992714025502,
+                    "fdr": 1.7504342657055457E-4,
+                    "expected": 0.052659344875545536,
+                    "pValue": 2.537660769696032E-7,
+                    "mapped_id_list": {"mapped_id": [
+                        "Tnnt2",
+                        "Tnnc1",
+                        "Tnni1"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 61,
+                "term": {
+                    "level": 1,
+                    "id": "GO:0055008",
+                    "label": "cardiac muscle tissue morphogenesis"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 4,
+                    "fold_enrichment": 64.35493827160494,
+                    "fdr": 2.9169982877854793E-4,
+                    "expected": 0.062155292312119324,
+                    "pValue": 4.780457326342419E-7,
+                    "mapped_id_list": {"mapped_id": [
+                        "Tnnt2",
+                        "Tnnc1",
+                        "Tnni1"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 72,
+                "term": {
+                    "level": 2,
+                    "id": "GO:0060415",
+                    "label": "muscle tissue morphogenesis"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 4,
+                    "fold_enrichment": 59.40455840455841,
+                    "fdr": 3.680756431273702E-4,
+                    "expected": 0.06733490000479593,
+                    "pValue": 6.496134892887719E-7,
+                    "mapped_id_list": {"mapped_id": [
+                        "Tnnt2",
+                        "Tnnc1",
+                        "Tnni1"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 78,
+                "term": {
+                    "level": 3,
+                    "id": "GO:0048644",
+                    "label": "muscle organ morphogenesis"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 6,
+                    "fold_enrichment": 24.301864801864802,
+                    "fdr": 8.679861751631276E-5,
+                    "expected": 0.2468946333509184,
+                    "pValue": 1.1489259173290691E-7,
+                    "mapped_id_list": {"mapped_id": [
+                        "Tnnt2",
+                        "Tnnc1",
+                        "Myh3",
+                        "Sox11",
+                        "Tnni1"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 286,
+                "term": {
+                    "level": 4,
+                    "id": "GO:0007517",
+                    "label": "muscle organ development"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 6,
+                    "fold_enrichment": 14.54044630404463,
+                    "fdr": 0.001095670711837641,
+                    "expected": 0.41264207951656995,
+                    "pValue": 2.209988199105232E-6,
+                    "mapped_id_list": {"mapped_id": [
+                        "Tnnt2",
+                        "Tnnc1",
+                        "Myh3",
+                        "Sox11",
+                        "Tnni1"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 478,
+                "term": {
+                    "level": 5,
+                    "id": "GO:0061061",
+                    "label": "muscle structure development"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 6,
+                    "fold_enrichment": 12.636969696969697,
+                    "fdr": 0.0021090609566456068,
+                    "expected": 0.4747973718286893,
+                    "pValue": 4.918705035984081E-6,
+                    "mapped_id_list": {"mapped_id": [
+                        "Cthrc1",
+                        "Tnnt2",
+                        "Tnnc1",
+                        "Sox11",
+                        "Tnni1"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 550,
+                "term": {
+                    "level": 3,
+                    "id": "GO:0048729",
+                    "label": "tissue morphogenesis"
+                }
+            }
+        ]},
+        {"result": [
+            {
+                "input_list": {
+                    "number_in_list": 5,
+                    "fold_enrichment": 74.25569800569801,
+                    "fdr": 9.579014706143302E-6,
+                    "expected": 0.06733490000479593,
+                    "pValue": 7.245394041835464E-9,
+                    "mapped_id_list": {"mapped_id": [
+                        "Myl4",
+                        "Tnnt2",
+                        "Tnnc1",
+                        "Tnni1"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 78,
+                "term": {
+                    "level": 0,
+                    "id": "GO:0060048",
+                    "label": "cardiac muscle contraction"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 5,
+                    "fold_enrichment": 64.35493827160494,
+                    "fdr": 1.7535400232667464E-5,
+                    "expected": 0.07769411539014916,
+                    "pValue": 1.43687490088041E-8,
+                    "mapped_id_list": {"mapped_id": [
+                        "Myl4",
+                        "Tnnt2",
+                        "Tnnc1",
+                        "Tnni1"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 90,
+                "term": {
+                    "level": 1,
+                    "id": "GO:0060047",
+                    "label": "heart contraction"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 5,
+                    "fold_enrichment": 56.23247033441208,
+                    "fdr": 3.1114567065947165E-5,
+                    "expected": 0.08891659872428181,
+                    "pValue": 2.745691389368171E-8,
+                    "mapped_id_list": {"mapped_id": [
+                        "Myl4",
+                        "Tnnt2",
+                        "Tnnc1",
+                        "Tnni1"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 103,
+                "term": {
+                    "level": 2,
+                    "id": "GO:0003015",
+                    "label": "heart process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 5,
+                    "fold_enrichment": 11.63041053101294,
+                    "fdr": 0.016389832395791143,
+                    "expected": 0.4299074384921587,
+                    "pValue": 5.268713849261571E-5,
+                    "mapped_id_list": {"mapped_id": [
+                        "Myl4",
+                        "Tnnt2",
+                        "Tnnc1",
+                        "Tnni1"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 498,
+                "term": {
+                    "level": 3,
+                    "id": "GO:0003013",
+                    "label": "circulatory system process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 5,
+                    "fold_enrichment": 14.265873015873018,
+                    "fdr": 0.0069152000060576,
+                    "expected": 0.3504867872044506,
+                    "pValue": 2.0050375056958692E-5,
+                    "mapped_id_list": {"mapped_id": [
+                        "Myl4",
+                        "Tnnt2",
+                        "Tnnc1",
+                        "Tnni1"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 406,
+                "term": {
+                    "level": 2,
+                    "id": "GO:0008015",
+                    "label": "blood circulation"
+                }
+            }
+        ]}
+    ]
+}}

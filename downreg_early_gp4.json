@@ -1,0 +1,235 @@
+{"overrepresentation": {
+    "reference": "",
+    "upload_lists": {"input_list": {
+        "organism": "Homo sapiens",
+        "list_name": "upload_1"
+    }},
+    "tool_release_date": 20200728,
+    "data_version_release_date": "GO Ontology database DOI:  10.5281/zenodo.4081749 Released 2020-10-09",
+    "annotation_type": "GO biological process complete",
+    "correction": "FDR",
+    "test_type": "FISHER",
+    "group": {"result": [
+        {
+            "input_list": {
+                "number_in_list": 10,
+                "fold_enrichment": 7.636262513904338,
+                "fdr": 0.007847150383781028,
+                "expected": 1.3095411507647488,
+                "pValue": 9.89240514816392E-7,
+                "mapped_id_list": {"mapped_id": [
+                    "Osr2",
+                    "Frem2",
+                    "Sfrp1",
+                    "Mme",
+                    "Col4a4",
+                    "Agtr1a",
+                    "Gpc3",
+                    "Six1",
+                    "Itga8",
+                    "Lrp4"
+                ]},
+                "list_name": "upload_1",
+                "plus_minus": "+"
+            },
+            "number_in_reference": 290,
+            "term": {
+                "level": 0,
+                "id": "GO:0001822",
+                "label": "kidney development"
+            }
+        },
+        {
+            "input_list": {
+                "number_in_list": 44,
+                "fold_enrichment": 1.8405498616815144,
+                "fdr": 0.030352130414621495,
+                "expected": 23.905899490167513,
+                "pValue": 7.652601428205861E-6,
+                "mapped_id_list": {"mapped_id": [
+                    "Vit",
+                    "Pla2g2d",
+                    "Clec3b",
+                    "Scml2",
+                    "Dzip1",
+                    "Atp1a2",
+                    "Six1",
+                    "Itga8",
+                    "Gli1",
+                    "Lrp4",
+                    "Paqr7",
+                    "Frem2",
+                    "Colec11",
+                    "Frem1",
+                    "Mcoln3",
+                    "Ntf3",
+                    "Agtr1a",
+                    "Gpc3",
+                    "Galnt15",
+                    "Scgb1a1",
+                    "Pck1",
+                    "Hoxa10",
+                    "Ltbp1",
+                    "Osr2",
+                    "Sfrp1",
+                    "Tle2",
+                    "Kazald1",
+                    "Mme",
+                    "Col4a4",
+                    "Tet1",
+                    "Thsd7a",
+                    "Ppargc1a",
+                    "Rspo3",
+                    "Slco2b1",
+                    "Kcnc1",
+                    "Abat",
+                    "Scn2a1",
+                    "Gpm6a",
+                    "Ntng1",
+                    "Dlg2",
+                    "Frzb",
+                    "Pik3r1",
+                    "Lepr"
+                ]},
+                "list_name": "upload_1",
+                "plus_minus": "+"
+            },
+            "number_in_reference": 5294,
+            "term": {
+                "level": 2,
+                "id": "GO:0048856",
+                "label": "anatomical structure development"
+            }
+        },
+        {
+            "input_list": {
+                "number_in_list": 52,
+                "fold_enrichment": 1.6516758277349026,
+                "fdr": 0.04569598529077491,
+                "expected": 31.48317552804079,
+                "pValue": 1.4401508128198838E-5,
+                "mapped_id_list": {"mapped_id": [
+                    "Vit",
+                    "Dzip1",
+                    "Six1",
+                    "Aqp4",
+                    "Gli1",
+                    "Trdn",
+                    "Paqr7",
+                    "Frem2",
+                    "Frem1",
+                    "Galnt15",
+                    "Ltbp1",
+                    "Osr2",
+                    "Sfrp1",
+                    "Tle2",
+                    "Kazald1",
+                    "Adrb3",
+                    "Mme",
+                    "Tet1",
+                    "Rspo3",
+                    "Abat",
+                    "Scn2a1",
+                    "Btc",
+                    "Frzb",
+                    "Pik3r1",
+                    "Slc26a7",
+                    "Pla2g2d",
+                    "Clec3b",
+                    "Atp1a2",
+                    "Itga8",
+                    "Lrp4",
+                    "Ddo",
+                    "Colec11",
+                    "Ptgfr",
+                    "Mcoln3",
+                    "Ntf3",
+                    "Agtr1a",
+                    "Gpc3",
+                    "Scgb1a1",
+                    "Pck1",
+                    "Slc7a2",
+                    "Hoxa10",
+                    "Col4a4",
+                    "Thsd7a",
+                    "Ppargc1a",
+                    "Slco2b1",
+                    "Kcnc1",
+                    "Gpm6a",
+                    "Ntng1",
+                    "Dlg2",
+                    "Mybpc1",
+                    "Cubn",
+                    "Lepr"
+                ]},
+                "list_name": "upload_1",
+                "plus_minus": "+"
+            },
+            "number_in_reference": 6972,
+            "term": {
+                "level": 4,
+                "id": "GO:0032501",
+                "label": "multicellular organismal process"
+            }
+        },
+        {
+            "input_list": {
+                "number_in_list": 10,
+                "fold_enrichment": 7.431262177960598,
+                "fdr": 0.006635935647810213,
+                "expected": 1.3456664238892935,
+                "pValue": 1.2548255243259149E-6,
+                "mapped_id_list": {"mapped_id": [
+                    "Osr2",
+                    "Frem2",
+                    "Sfrp1",
+                    "Mme",
+                    "Col4a4",
+                    "Agtr1a",
+                    "Gpc3",
+                    "Six1",
+                    "Itga8",
+                    "Lrp4"
+                ]},
+                "list_name": "upload_1",
+                "plus_minus": "+"
+            },
+            "number_in_reference": 298,
+            "term": {
+                "level": 1,
+                "id": "GO:0072001",
+                "label": "renal system development"
+            }
+        },
+        {
+            "input_list": {
+                "number_in_list": 11,
+                "fold_enrichment": 7.359419159925932,
+                "fdr": 0.00620069875190032,
+                "expected": 1.494683175528041,
+                "pValue": 3.9084139627483896E-7,
+                "mapped_id_list": {"mapped_id": [
+                    "Osr2",
+                    "Frem2",
+                    "Sfrp1",
+                    "Mme",
+                    "Col4a4",
+                    "Agtr1a",
+                    "Gpc3",
+                    "Six1",
+                    "Itga8",
+                    "Gli1",
+                    "Lrp4"
+                ]},
+                "list_name": "upload_1",
+                "plus_minus": "+"
+            },
+            "number_in_reference": 331,
+            "term": {
+                "level": 2,
+                "id": "GO:0001655",
+                "label": "urogenital system development"
+            }
+        }
+    ]}
+}}

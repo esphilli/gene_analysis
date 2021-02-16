@@ -1,0 +1,1391 @@
+{"overrepresentation": {
+    "reference": "",
+    "upload_lists": {"input_list": {
+        "organism": "Homo sapiens",
+        "list_name": "upload_1"
+    }},
+    "tool_release_date": 20200728,
+    "data_version_release_date": "GO Ontology database DOI:  10.5281/zenodo.4081749 Released 2020-10-09",
+    "annotation_type": "GO biological process complete",
+    "correction": "FDR",
+    "test_type": "FISHER",
+    "group": [
+        {"result": [
+            {
+                "input_list": {
+                    "number_in_list": 2,
+                    "fold_enrichment": 613.2647058823529,
+                    "fdr": 0.007187359533056149,
+                    "expected": 0.0032612344731667545,
+                    "pValue": 1.5403102686663034E-5,
+                    "mapped_id_list": {"mapped_id": [
+                        "Dct",
+                        "Tyr"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 2,
+                "term": {
+                    "level": 0,
+                    "id": "GO:0006583",
+                    "label": "melanin biosynthetic process from tyrosine"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 4,
+                    "fold_enrichment": 188.69683257918552,
+                    "fdr": 1.2804627069592046E-5,
+                    "expected": 0.021198024075583903,
+                    "pValue": 1.372068453722438E-8,
+                    "mapped_id_list": {"mapped_id": [
+                        "Pmel",
+                        "Dct",
+                        "Tyrp1",
+                        "Tyr"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 13,
+                "term": {
+                    "level": 1,
+                    "id": "GO:0042438",
+                    "label": "melanin biosynthetic process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 4,
+                    "fold_enrichment": 46.28412874583796,
+                    "fdr": 0.001277940331466905,
+                    "expected": 0.08642271353891899,
+                    "pValue": 2.1748748156070867E-6,
+                    "mapped_id_list": {"mapped_id": [
+                        "Pmel",
+                        "Dct",
+                        "Tyrp1",
+                        "Tyr"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 53,
+                "term": {
+                    "level": 2,
+                    "id": "GO:0046148",
+                    "label": "pigment biosynthetic process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 4,
+                    "fold_enrichment": 32.70745098039215,
+                    "fdr": 0.004265577554854858,
+                    "expected": 0.12229629274375331,
+                    "pValue": 8.066014916208367E-6,
+                    "mapped_id_list": {"mapped_id": [
+                        "Pmel",
+                        "Dct",
+                        "Tyrp1",
+                        "Tyr"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 75,
+                "term": {
+                    "level": 3,
+                    "id": "GO:0042440",
+                    "label": "pigment metabolic process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 4,
+                    "fold_enrichment": 163.53725490196078,
+                    "fdr": 1.8615309950231717E-5,
+                    "expected": 0.02445925854875066,
+                    "pValue": 2.229378437153499E-8,
+                    "mapped_id_list": {"mapped_id": [
+                        "Pmel",
+                        "Dct",
+                        "Tyrp1",
+                        "Tyr"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 15,
+                "term": {
+                    "level": 2,
+                    "id": "GO:0044550",
+                    "label": "secondary metabolite biosynthetic process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 4,
+                    "fold_enrichment": 51.10539215686274,
+                    "fdr": 9.147816915747158E-4,
+                    "expected": 0.07826962735600211,
+                    "pValue": 1.4991694913925377E-6,
+                    "mapped_id_list": {"mapped_id": [
+                        "Pmel",
+                        "Dct",
+                        "Tyrp1",
+                        "Tyr"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 48,
+                "term": {
+                    "level": 3,
+                    "id": "GO:0019748",
+                    "label": "secondary metabolic process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 4,
+                    "fold_enrichment": 70.0873949579832,
+                    "fdr": 3.189087511559901E-4,
+                    "expected": 0.05707160328041821,
+                    "pValue": 4.623322582154284E-7,
+                    "mapped_id_list": {"mapped_id": [
+                        "Pmel",
+                        "Dct",
+                        "Tyrp1",
+                        "Tyr"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 35,
+                "term": {
+                    "level": 2,
+                    "id": "GO:0046189",
+                    "label": "phenol-containing compound biosynthetic process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 4,
+                    "fold_enrichment": 27.2562091503268,
+                    "fdr": 0.007293881274283102,
+                    "expected": 0.14675555129250395,
+                    "pValue": 1.6091134232581694E-5,
+                    "mapped_id_list": {"mapped_id": [
+                        "Pmel",
+                        "Dct",
+                        "Tyrp1",
+                        "Tyr"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 90,
+                "term": {
+                    "level": 3,
+                    "id": "GO:0018958",
+                    "label": "phenol-containing compound metabolic process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 4,
+                    "fold_enrichment": 175.21848739495798,
+                    "fdr": 1.553060666743336E-5,
+                    "expected": 0.022828641312167282,
+                    "pValue": 1.762060636708481E-8,
+                    "mapped_id_list": {"mapped_id": [
+                        "Pmel",
+                        "Dct",
+                        "Tyrp1",
+                        "Tyr"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 14,
+                "term": {
+                    "level": 2,
+                    "id": "GO:0006582",
+                    "label": "melanin metabolic process"
+                }
+            }
+        ]},
+        {"result": [
+            {
+                "input_list": {
+                    "number_in_list": 2,
+                    "fold_enrichment": 204.42156862745097,
+                    "fdr": 0.025812342382217038,
+                    "expected": 0.009783703419500264,
+                    "pValue": 7.158796500583357E-5,
+                    "mapped_id_list": {"mapped_id": [
+                        "Dct",
+                        "Tyr"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 6,
+                "term": {
+                    "level": 0,
+                    "id": "GO:0009637",
+                    "label": "response to blue light"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 3,
+                    "fold_enrichment": 0.21576100828510128,
+                    "fdr": 0.024164445764779805,
+                    "expected": 13.904273176346459,
+                    "pValue": 6.54945583287445E-5,
+                    "mapped_id_list": {"mapped_id": [
+                        "Dct",
+                        "Tyr",
+                        "Cybrd1"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "-"
+                },
+                "number_in_reference": 8527,
+                "term": {
+                    "level": 4,
+                    "id": "GO:0050896",
+                    "label": "response to stimulus"
+                }
+            }
+        ]},
+        {"result": [
+            {
+                "input_list": {
+                    "number_in_list": 3,
+                    "fold_enrichment": 73.59176470588235,
+                    "fdr": 0.006037842264363413,
+                    "expected": 0.040765430914584434,
+                    "pValue": 1.2559016370878829E-5,
+                    "mapped_id_list": {"mapped_id": [
+                        "Krt71",
+                        "Krt25",
+                        "Tchh"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 25,
+                "term": {
+                    "level": 0,
+                    "id": "GO:0045109",
+                    "label": "intermediate filament organization"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 3,
+                    "fold_enrichment": 36.074394463667815,
+                    "fdr": 0.031860591876671625,
+                    "expected": 0.08316147906575225,
+                    "pValue": 9.237864647506428E-5,
+                    "mapped_id_list": {"mapped_id": [
+                        "Krt71",
+                        "Krt25",
+                        "Tchh"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 51,
+                "term": {
+                    "level": 1,
+                    "id": "GO:0045104",
+                    "label": "intermediate filament cytoskeleton organization"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 3,
+                    "fold_enrichment": 35.380656108597286,
+                    "fdr": 0.032945056294472634,
+                    "expected": 0.08479209630233561,
+                    "pValue": 9.759959948567373E-5,
+                    "mapped_id_list": {"mapped_id": [
+                        "Krt71",
+                        "Krt25",
+                        "Tchh"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 52,
+                "term": {
+                    "level": 2,
+                    "id": "GO:0045103",
+                    "label": "intermediate filament-based process"
+                }
+            }
+        ]},
+        {"result": [
+            {
+                "input_list": {
+                    "number_in_list": 11,
+                    "fold_enrichment": 59.698334200937005,
+                    "fdr": 9.232292870633107E-14,
+                    "expected": 0.18425974773392165,
+                    "pValue": 5.2373549218845233E-17,
+                    "mapped_id_list": {"mapped_id": [
+                        "Krt71",
+                        "Krt33a",
+                        "Krt27",
+                        "Krt28",
+                        "Krt25",
+                        "Krt26",
+                        "Tchh",
+                        "Krt34",
+                        "Krt35",
+                        "Krt86",
+                        "Krt73"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 113,
+                "term": {
+                    "level": 0,
+                    "id": "GO:0070268",
+                    "label": "cornification"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 11,
+                    "fold_enrichment": 6.430802444905512,
+                    "fdr": 3.5158213527645147E-4,
+                    "expected": 1.7105174811759627,
+                    "pValue": 5.318607782310012E-7,
+                    "mapped_id_list": {"mapped_id": [
+                        "Krt71",
+                        "Krt33a",
+                        "Krt27",
+                        "Krt28",
+                        "Krt25",
+                        "Krt26",
+                        "Tchh",
+                        "Krt34",
+                        "Krt35",
+                        "Krt86",
+                        "Krt73"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 1049,
+                "term": {
+                    "level": 1,
+                    "id": "GO:0012501",
+                    "label": "programmed cell death"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 11,
+                    "fold_enrichment": 6.2117051240385655,
+                    "fdr": 4.7432871053232676E-4,
+                    "expected": 1.7708503189295477,
+                    "pValue": 7.474451789037611E-7,
+                    "mapped_id_list": {"mapped_id": [
+                        "Krt71",
+                        "Krt33a",
+                        "Krt27",
+                        "Krt28",
+                        "Krt25",
+                        "Krt26",
+                        "Tchh",
+                        "Krt34",
+                        "Krt35",
+                        "Krt86",
+                        "Krt73"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 1086,
+                "term": {
+                    "level": 2,
+                    "id": "GO:0008219",
+                    "label": "cell death"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 22,
+                    "fold_enrichment": 59.698334200937005,
+                    "fdr": 1.3027073531748488E-30,
+                    "expected": 0.3685194954678433,
+                    "pValue": 8.211202982507714E-35,
+                    "mapped_id_list": {"mapped_id": [
+                        "Krt33a",
+                        "Krt27",
+                        "Krt28",
+                        "Krtap19-3",
+                        "Krt25",
+                        "Krtap4-2",
+                        "Krtap1-5",
+                        "Krtap3-2",
+                        "Krtap4-1",
+                        "Krt26",
+                        "Tchh",
+                        "Krtap11-1",
+                        "Krtap13-1",
+                        "Krt71",
+                        "Krtap9-3",
+                        "Krt34",
+                        "Krtap4-7",
+                        "Krt35",
+                        "Krtap4-6",
+                        "Krtap8-1",
+                        "Krt86",
+                        "Krt73"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 226,
+                "term": {
+                    "level": 1,
+                    "id": "GO:0031424",
+                    "label": "keratinization"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 24,
+                    "fold_enrichment": 2.1071371426165313,
+                    "fdr": 0.006001013570266878,
+                    "expected": 11.38986139753489,
+                    "pValue": 1.2104155956416016E-5,
+                    "mapped_id_list": {"mapped_id": [
+                        "Krt33a",
+                        "Krt27",
+                        "Krt28",
+                        "Krtap19-3",
+                        "Krt25",
+                        "Krtap4-2",
+                        "Krtap1-5",
+                        "Krtap3-2",
+                        "Krtap4-1",
+                        "Krt26",
+                        "Tchh",
+                        "Krtap11-1",
+                        "Tyr",
+                        "Krtap13-1",
+                        "Krt71",
+                        "Dct",
+                        "Krtap9-3",
+                        "Krt34",
+                        "Krtap4-7",
+                        "Krt35",
+                        "Krtap4-6",
+                        "Krtap8-1",
+                        "Krt86",
+                        "Krt73"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 6985,
+                "term": {
+                    "level": 2,
+                    "id": "GO:0032501",
+                    "label": "multicellular organismal process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 22,
+                    "fold_enrichment": 50.155477804504706,
+                    "fdr": 2.4792148403587958E-29,
+                    "expected": 0.4386360366409285,
+                    "pValue": 3.125389020307338E-33,
+                    "mapped_id_list": {"mapped_id": [
+                        "Krt33a",
+                        "Krt27",
+                        "Krt28",
+                        "Krtap19-3",
+                        "Krt25",
+                        "Krtap4-2",
+                        "Krtap1-5",
+                        "Krtap3-2",
+                        "Krtap4-1",
+                        "Krt26",
+                        "Tchh",
+                        "Krtap11-1",
+                        "Krtap13-1",
+                        "Krt71",
+                        "Krtap9-3",
+                        "Krt34",
+                        "Krtap4-7",
+                        "Krt35",
+                        "Krtap4-6",
+                        "Krtap8-1",
+                        "Krt86",
+                        "Krt73"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 269,
+                "term": {
+                    "level": 2,
+                    "id": "GO:0030216",
+                    "label": "keratinocyte differentiation"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 22,
+                    "fold_enrichment": 42.294117647058826,
+                    "fdr": 5.943557066752248E-28,
+                    "expected": 0.5201668984700973,
+                    "pValue": 1.1238998550429717E-31,
+                    "mapped_id_list": {"mapped_id": [
+                        "Krt33a",
+                        "Krt27",
+                        "Krt28",
+                        "Krtap19-3",
+                        "Krt25",
+                        "Krtap4-2",
+                        "Krtap1-5",
+                        "Krtap3-2",
+                        "Krtap4-1",
+                        "Krt26",
+                        "Tchh",
+                        "Krtap11-1",
+                        "Krtap13-1",
+                        "Krt71",
+                        "Krtap9-3",
+                        "Krt34",
+                        "Krtap4-7",
+                        "Krt35",
+                        "Krtap4-6",
+                        "Krtap8-1",
+                        "Krt86",
+                        "Krt73"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 319,
+                "term": {
+                    "level": 3,
+                    "id": "GO:0009913",
+                    "label": "epidermal cell differentiation"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 22,
+                    "fold_enrichment": 19.75376797864094,
+                    "fdr": 3.0227223017927404E-21,
+                    "expected": 1.1137115725864468,
+                    "pValue": 1.1431663290738381E-24,
+                    "mapped_id_list": {"mapped_id": [
+                        "Krt33a",
+                        "Krt27",
+                        "Krt28",
+                        "Krtap19-3",
+                        "Krt25",
+                        "Krtap4-2",
+                        "Krtap1-5",
+                        "Krtap3-2",
+                        "Krtap4-1",
+                        "Krt26",
+                        "Tchh",
+                        "Krtap11-1",
+                        "Krtap13-1",
+                        "Krt71",
+                        "Krtap9-3",
+                        "Krt34",
+                        "Krtap4-7",
+                        "Krt35",
+                        "Krtap4-6",
+                        "Krtap8-1",
+                        "Krt86",
+                        "Krt73"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 683,
+                "term": {
+                    "level": 4,
+                    "id": "GO:0030855",
+                    "label": "epithelial cell differentiation"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 22,
+                    "fold_enrichment": 12.035525003935563,
+                    "fdr": 9.476632686236958E-17,
+                    "expected": 1.8279219222099659,
+                    "pValue": 4.181306574450596E-20,
+                    "mapped_id_list": {"mapped_id": [
+                        "Krt33a",
+                        "Krt27",
+                        "Krt28",
+                        "Krtap19-3",
+                        "Krt25",
+                        "Krtap4-2",
+                        "Krtap1-5",
+                        "Krtap3-2",
+                        "Krtap4-1",
+                        "Krt26",
+                        "Tchh",
+                        "Krtap11-1",
+                        "Krtap13-1",
+                        "Krt71",
+                        "Krtap9-3",
+                        "Krt34",
+                        "Krtap4-7",
+                        "Krt35",
+                        "Krtap4-6",
+                        "Krtap8-1",
+                        "Krt86",
+                        "Krt73"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 1121,
+                "term": {
+                    "level": 5,
+                    "id": "GO:0060429",
+                    "label": "epithelium development"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 23,
+                    "fold_enrichment": 8.000617263354577,
+                    "fdr": 5.385178281332465E-14,
+                    "expected": 2.874778188096494,
+                    "pValue": 2.715501181888416E-17,
+                    "mapped_id_list": {"mapped_id": [
+                        "Krt33a",
+                        "Krt27",
+                        "Krt28",
+                        "Krtap19-3",
+                        "Krt25",
+                        "Krtap4-2",
+                        "Krtap1-5",
+                        "Krtap3-2",
+                        "Krtap4-1",
+                        "Krt26",
+                        "Tchh",
+                        "Krtap11-1",
+                        "Krtap13-1",
+                        "Krt71",
+                        "Dct",
+                        "Krtap9-3",
+                        "Krt34",
+                        "Krtap4-7",
+                        "Krt35",
+                        "Krtap4-6",
+                        "Krtap8-1",
+                        "Krt86",
+                        "Krt73"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 1763,
+                "term": {
+                    "level": 6,
+                    "id": "GO:0009888",
+                    "label": "tissue development"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 24,
+                    "fold_enrichment": 2.776523852325311,
+                    "fdr": 3.186137883143129E-5,
+                    "expected": 8.643901971128482,
+                    "pValue": 4.4182183062810484E-8,
+                    "mapped_id_list": {"mapped_id": [
+                        "Krt33a",
+                        "Krt27",
+                        "Krt28",
+                        "Krtap19-3",
+                        "Krt25",
+                        "Krtap4-2",
+                        "Krtap1-5",
+                        "Krtap3-2",
+                        "Krtap4-1",
+                        "Krt26",
+                        "Tchh",
+                        "Krtap11-1",
+                        "Tyr",
+                        "Krtap13-1",
+                        "Krt71",
+                        "Dct",
+                        "Krtap9-3",
+                        "Krt34",
+                        "Krtap4-7",
+                        "Krt35",
+                        "Krtap4-6",
+                        "Krtap8-1",
+                        "Krt86",
+                        "Krt73"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 5301,
+                "term": {
+                    "level": 7,
+                    "id": "GO:0048856",
+                    "label": "anatomical structure development"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 25,
+                    "fold_enrichment": 2.659430641293812,
+                    "fdr": 2.8080862004165007E-5,
+                    "expected": 9.40050836890317,
+                    "pValue": 3.716975115584401E-8,
+                    "mapped_id_list": {"mapped_id": [
+                        "Krt27",
+                        "Krt28",
+                        "Krt25",
+                        "Krt26",
+                        "Krtap9-3",
+                        "Krtap4-7",
+                        "Krtap4-6",
+                        "Krtap8-1",
+                        "Krt86",
+                        "Krt33a",
+                        "Krtap19-3",
+                        "Krtap4-2",
+                        "Krtap1-5",
+                        "Krtap3-2",
+                        "Krtap4-1",
+                        "Tchh",
+                        "Krtap11-1",
+                        "Tyr",
+                        "Krtap13-1",
+                        "Krt71",
+                        "Dct",
+                        "Tyrp1",
+                        "Krt34",
+                        "Krt35",
+                        "Krt73"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 5765,
+                "term": {
+                    "level": 8,
+                    "id": "GO:0032502",
+                    "label": "developmental process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 24,
+                    "fold_enrichment": 4.157726819541376,
+                    "fdr": 1.1169948190892326E-8,
+                    "expected": 5.772385017505155,
+                    "pValue": 7.744685162295341E-12,
+                    "mapped_id_list": {"mapped_id": [
+                        "Krt33a",
+                        "Krt27",
+                        "Krt28",
+                        "Krtap19-3",
+                        "Krt25",
+                        "Krtap4-2",
+                        "Krtap1-5",
+                        "Krtap3-2",
+                        "Krtap4-1",
+                        "Krt26",
+                        "Tchh",
+                        "Krtap11-1",
+                        "Krtap13-1",
+                        "Krt71",
+                        "Dct",
+                        "Tyrp1",
+                        "Krtap9-3",
+                        "Krt34",
+                        "Krtap4-7",
+                        "Krt35",
+                        "Krtap4-6",
+                        "Krtap8-1",
+                        "Krt86",
+                        "Krt73"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 3540,
+                "term": {
+                    "level": 5,
+                    "id": "GO:0030154",
+                    "label": "cell differentiation"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 24,
+                    "fold_enrichment": 4.092979127134726,
+                    "fdr": 1.4452407695968224E-8,
+                    "expected": 5.863699582753824,
+                    "pValue": 1.0931540646178298E-11,
+                    "mapped_id_list": {"mapped_id": [
+                        "Krt33a",
+                        "Krt27",
+                        "Krt28",
+                        "Krtap19-3",
+                        "Krt25",
+                        "Krtap4-2",
+                        "Krtap1-5",
+                        "Krtap3-2",
+                        "Krtap4-1",
+                        "Krt26",
+                        "Tchh",
+                        "Krtap11-1",
+                        "Krtap13-1",
+                        "Krt71",
+                        "Dct",
+                        "Tyrp1",
+                        "Krtap9-3",
+                        "Krt34",
+                        "Krtap4-7",
+                        "Krt35",
+                        "Krtap4-6",
+                        "Krtap8-1",
+                        "Krt86",
+                        "Krt73"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 3596,
+                "term": {
+                    "level": 6,
+                    "id": "GO:0048869",
+                    "label": "cellular developmental process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 23,
+                    "fold_enrichment": 33.34536225837853,
+                    "fdr": 1.9692863131398432E-27,
+                    "expected": 0.6897510910747686,
+                    "pValue": 4.965108889101401E-31,
+                    "mapped_id_list": {"mapped_id": [
+                        "Krt33a",
+                        "Krt27",
+                        "Krt28",
+                        "Krtap19-3",
+                        "Krt25",
+                        "Krtap4-2",
+                        "Krtap1-5",
+                        "Krtap3-2",
+                        "Krtap4-1",
+                        "Krt26",
+                        "Tchh",
+                        "Krtap11-1",
+                        "Krtap13-1",
+                        "Krt71",
+                        "Dct",
+                        "Krtap9-3",
+                        "Krt34",
+                        "Krtap4-7",
+                        "Krt35",
+                        "Krtap4-6",
+                        "Krtap8-1",
+                        "Krt86",
+                        "Krt73"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 423,
+                "term": {
+                    "level": 4,
+                    "id": "GO:0008544",
+                    "label": "epidermis development"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 22,
+                    "fold_enrichment": 35.41161031341671,
+                    "fdr": 1.5148031449184684E-26,
+                    "expected": 0.6212651671382667,
+                    "pValue": 4.774040797095709E-30,
+                    "mapped_id_list": {"mapped_id": [
+                        "Krt33a",
+                        "Krt27",
+                        "Krt28",
+                        "Krtap19-3",
+                        "Krt25",
+                        "Krtap4-2",
+                        "Krtap1-5",
+                        "Krtap3-2",
+                        "Krtap4-1",
+                        "Krt26",
+                        "Tchh",
+                        "Krtap11-1",
+                        "Krtap13-1",
+                        "Krt71",
+                        "Krtap9-3",
+                        "Krt34",
+                        "Krtap4-7",
+                        "Krt35",
+                        "Krtap4-6",
+                        "Krtap8-1",
+                        "Krt86",
+                        "Krt73"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 381,
+                "term": {
+                    "level": 3,
+                    "id": "GO:0043588",
+                    "label": "skin development"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 24,
+                    "fold_enrichment": 4.532908204858783,
+                    "fdr": 1.8256927693495919E-9,
+                    "expected": 5.294614167186227,
+                    "pValue": 1.1507675823193143E-12,
+                    "mapped_id_list": {"mapped_id": [
+                        "Krt33a",
+                        "Krt27",
+                        "Krt28",
+                        "Krtap19-3",
+                        "Krt25",
+                        "Krtap4-2",
+                        "Krtap1-5",
+                        "Krtap3-2",
+                        "Krtap4-1",
+                        "Krt26",
+                        "Tchh",
+                        "Krtap11-1",
+                        "Tyr",
+                        "Krtap13-1",
+                        "Krt71",
+                        "Dct",
+                        "Krtap9-3",
+                        "Krt34",
+                        "Krtap4-7",
+                        "Krt35",
+                        "Krtap4-6",
+                        "Krtap8-1",
+                        "Krt86",
+                        "Krt73"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 3247,
+                "term": {
+                    "level": 4,
+                    "id": "GO:0048513",
+                    "label": "animal organ development"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 24,
+                    "fold_enrichment": 3.409393778359155,
+                    "fdr": 7.052552400222046E-7,
+                    "expected": 7.039374610330439,
+                    "pValue": 5.778958789970792E-10,
+                    "mapped_id_list": {"mapped_id": [
+                        "Krt33a",
+                        "Krt27",
+                        "Krt28",
+                        "Krtap19-3",
+                        "Krt25",
+                        "Krtap4-2",
+                        "Krtap1-5",
+                        "Krtap3-2",
+                        "Krtap4-1",
+                        "Krt26",
+                        "Tchh",
+                        "Krtap11-1",
+                        "Tyr",
+                        "Krtap13-1",
+                        "Krt71",
+                        "Dct",
+                        "Krtap9-3",
+                        "Krt34",
+                        "Krtap4-7",
+                        "Krt35",
+                        "Krtap4-6",
+                        "Krtap8-1",
+                        "Krt86",
+                        "Krt73"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 4317,
+                "term": {
+                    "level": 5,
+                    "id": "GO:0048731",
+                    "label": "system development"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 24,
+                    "fold_enrichment": 3.000071940720846,
+                    "fdr": 8.688976165654146E-6,
+                    "expected": 7.9998081626780495,
+                    "pValue": 8.762913246168695E-9,
+                    "mapped_id_list": {"mapped_id": [
+                        "Krt33a",
+                        "Krt27",
+                        "Krt28",
+                        "Krtap19-3",
+                        "Krt25",
+                        "Krtap4-2",
+                        "Krtap1-5",
+                        "Krtap3-2",
+                        "Krtap4-1",
+                        "Krt26",
+                        "Tchh",
+                        "Krtap11-1",
+                        "Tyr",
+                        "Krtap13-1",
+                        "Krt71",
+                        "Dct",
+                        "Krtap9-3",
+                        "Krt34",
+                        "Krtap4-7",
+                        "Krt35",
+                        "Krtap4-6",
+                        "Krtap8-1",
+                        "Krt86",
+                        "Krt73"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 4906,
+                "term": {
+                    "level": 6,
+                    "id": "GO:0007275",
+                    "label": "multicellular organism development"
+                }
+            }
+        ]},
+        {"result": [
+            {
+                "input_list": {
+                    "number_in_list": 3,
+                    "fold_enrichment": 45.99485294117647,
+                    "fdr": 0.0175753572317753,
+                    "expected": 0.0652246894633351,
+                    "pValue": 4.652789182064687E-5,
+                    "mapped_id_list": {"mapped_id": [
+                        "Dct",
+                        "Tyrp1",
+                        "Tyr"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 40,
+                "term": {
+                    "level": 0,
+                    "id": "GO:0048066",
+                    "label": "developmental pigmentation"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 4,
+                    "fold_enrichment": 26.09637046307885,
+                    "fdr": 0.008361432280944396,
+                    "expected": 0.15327802023883746,
+                    "pValue": 1.8973309934698914E-5,
+                    "mapped_id_list": {"mapped_id": [
+                        "Pmel",
+                        "Dct",
+                        "Tyrp1",
+                        "Tyr"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 94,
+                "term": {
+                    "level": 1,
+                    "id": "GO:0043473",
+                    "label": "pigmentation"
+                }
+            }
+        ]},
+        {"result": [
+            {
+                "input_list": {
+                    "number_in_list": 1,
+                    "fold_enrichment": 0.09728183786204837,
+                    "fdr": 0.0364049847402034,
+                    "expected": 10.27941105942161,
+                    "pValue": 1.1014429672422082E-4,
+                    "mapped_id_list": {"mapped_id": "Tyrp1"},
+                    "list_name": "upload_1",
+                    "plus_minus": "-"
+                },
+                "number_in_reference": 6304,
+                "term": {
+                    "level": 0,
+                    "id": "GO:0031323",
+                    "label": "regulation of cellular metabolic process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 3,
+                    "fold_enrichment": 0.16145626306687663,
+                    "fdr": 2.029073089830541E-5,
+                    "expected": 18.58088341086758,
+                    "pValue": 2.5579238447280698E-8,
+                    "mapped_id_list": {"mapped_id": [
+                        "Dct",
+                        "Adamts20",
+                        "Tyrp1"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "-"
+                },
+                "number_in_reference": 11395,
+                "term": {
+                    "level": 1,
+                    "id": "GO:0050794",
+                    "label": "regulation of cellular process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 3,
+                    "fold_enrichment": 0.1538289396025969,
+                    "fdr": 4.723240926779704E-6,
+                    "expected": 19.502182149537195,
+                    "pValue": 4.168003339105948E-9,
+                    "mapped_id_list": {"mapped_id": [
+                        "Dct",
+                        "Adamts20",
+                        "Tyrp1"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "-"
+                },
+                "number_in_reference": 11960,
+                "term": {
+                    "level": 2,
+                    "id": "GO:0050789",
+                    "label": "regulation of biological process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 4,
+                    "fold_enrichment": 0.19399437117670318,
+                    "fdr": 5.266514681154892E-6,
+                    "expected": 20.619154956596805,
+                    "pValue": 4.9793709560241656E-9,
+                    "mapped_id_list": {"mapped_id": [
+                        "Dct",
+                        "Adamts20",
+                        "Tyrp1",
+                        "Cybrd1"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "-"
+                },
+                "number_in_reference": 12645,
+                "term": {
+                    "level": 3,
+                    "id": "GO:0065007",
+                    "label": "biological regulation"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 1,
+                    "fold_enrichment": 0.08729746702951642,
+                    "fdr": 0.01122904988433039,
+                    "expected": 11.455086086998227,
+                    "pValue": 2.7603715442098028E-5,
+                    "mapped_id_list": {"mapped_id": "Tyrp1"},
+                    "list_name": "upload_1",
+                    "plus_minus": "-"
+                },
+                "number_in_reference": 7025,
+                "term": {
+                    "level": 1,
+                    "id": "GO:0019222",
+                    "label": "regulation of metabolic process"
+                }
+            }
+        ]},
+        {"result": {
+            "input_list": {
+                "number_in_list": 0,
+                "fold_enrichment": 0,
+                "fdr": 0.006066574655992959,
+                "expected": 9.923936501846434,
+                "pValue": 1.1854006576475369E-5,
+                "list_name": "upload_1",
+                "plus_minus": "-"
+            },
+            "number_in_reference": 6086,
+            "term": {
+                "level": 0,
+                "id": "GO:0080090",
+                "label": "regulation of primary metabolic process"
+            }
+        }},
+        {"result": {
+            "input_list": {
+                "number_in_list": 0,
+                "fold_enrichment": 0,
+                "fdr": 0.0030855352641037106,
+                "expected": 10.584336482662701,
+                "pValue": 5.6401211887177814E-6,
+                "list_name": "upload_1",
+                "plus_minus": "-"
+            },
+            "number_in_reference": 6491,
+            "term": {
+                "level": 0,
+                "id": "GO:0060255",
+                "label": "regulation of macromolecule metabolic process"
+            }
+        }},
+        {"result": [
+            {
+                "input_list": {
+                    "number_in_list": 0,
+                    "fold_enrichment": 0,
+                    "fdr": 0.030649780172324264,
+                    "expected": 8.427029878662895,
+                    "pValue": 8.693602948342843E-5,
+                    "list_name": "upload_1",
+                    "plus_minus": "-"
+                },
+                "number_in_reference": 5168,
+                "term": {
+                    "level": 0,
+                    "id": "GO:0007165",
+                    "label": "signal transduction"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 0,
+                    "fold_enrichment": 0,
+                    "fdr": 0.017267345829668632,
+                    "expected": 9.001007145940243,
+                    "pValue": 4.462408944320289E-5,
+                    "list_name": "upload_1",
+                    "plus_minus": "-"
+                },
+                "number_in_reference": 5520,
+                "term": {
+                    "level": 1,
+                    "id": "GO:0023052",
+                    "label": "signaling"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 0,
+                    "fold_enrichment": 0,
+                    "fdr": 0.017518832223297705,
+                    "expected": 9.14939331446933,
+                    "pValue": 4.4169762932991383E-5,
+                    "list_name": "upload_1",
+                    "plus_minus": "-"
+                },
+                "number_in_reference": 5611,
+                "term": {
+                    "level": 1,
+                    "id": "GO:0007154",
+                    "label": "cell communication"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 0,
+                    "fold_enrichment": 0,
+                    "fdr": 0.001512122474820488,
+                    "expected": 11.112656467315716,
+                    "pValue": 2.668731755119676E-6,
+                    "list_name": "upload_1",
+                    "plus_minus": "-"
+                },
+                "number_in_reference": 6815,
+                "term": {
+                    "level": 1,
+                    "id": "GO:0051716",
+                    "label": "cellular response to stimulus"
+                }
+            }
+        ]},
+        {"result": {
+            "input_list": {
+                "number_in_list": 0,
+                "fold_enrichment": 0,
+                "fdr": 0.009796146975936722,
+                "expected": 9.576615030454175,
+                "pValue": 2.28463560106939E-5,
+                "list_name": "upload_1",
+                "plus_minus": "-"
+            },
+            "number_in_reference": 5873,
+            "term": {
+                "level": 0,
+                "id": "GO:0051179",
+                "label": "localization"
+            }
+        }},
+        {"result": {
+            "input_list": {
+                "number_in_list": 0,
+                "fold_enrichment": 0,
+                "fdr": 0.009545875673445416,
+                "expected": 9.612488609659009,
+                "pValue": 2.2864372870527945E-5,
+                "list_name": "upload_1",
+                "plus_minus": "-"
+            },
+            "number_in_reference": 5895,
+            "term": {
+                "level": 0,
+                "id": "GO:0051171",
+                "label": "regulation of nitrogen compound metabolic process"
+            }
+        }}
+    ]
+}}

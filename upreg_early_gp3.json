@@ -1,0 +1,595 @@
+{"overrepresentation": {
+    "reference": "",
+    "upload_lists": {"input_list": {
+        "organism": "Homo sapiens",
+        "list_name": "upload_1"
+    }},
+    "tool_release_date": 20200728,
+    "data_version_release_date": "GO Ontology database DOI:  10.5281/zenodo.4081749 Released 2020-10-09",
+    "annotation_type": "GO biological process complete",
+    "correction": "FDR",
+    "test_type": "FISHER",
+    "group": [
+        {"result": [
+            {
+                "input_list": {
+                    "number_in_list": 5,
+                    "fold_enrichment": 38.44210914454277,
+                    "fdr": 0.0010931177125424656,
+                    "expected": 0.13006570428276823,
+                    "pValue": 2.0670363300519362E-7,
+                    "mapped_id_list": {"mapped_id": [
+                        "Sprr2f",
+                        "Krt16",
+                        "Sprr1b",
+                        "Sprr2d",
+                        "Krt6b"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 113,
+                "term": {
+                    "level": 0,
+                    "id": "GO:0070268",
+                    "label": "cornification"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 9,
+                    "fold_enrichment": 7.453884652049571,
+                    "fdr": 0.004435317492176636,
+                    "expected": 1.207424104359503,
+                    "pValue": 1.397830914647537E-6,
+                    "mapped_id_list": {"mapped_id": [
+                        "Sprr2f",
+                        "Krt16",
+                        "Gjb6",
+                        "Spp1",
+                        "Sprr1b",
+                        "Sprr2d",
+                        "S100a9",
+                        "Krt6b",
+                        "Rtn4"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 1049,
+                "term": {
+                    "level": 1,
+                    "id": "GO:0012501",
+                    "label": "programmed cell death"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 9,
+                    "fold_enrichment": 7.19993093922652,
+                    "fdr": 0.003688441901192356,
+                    "expected": 1.2500119898326219,
+                    "pValue": 1.8599139747582004E-6,
+                    "mapped_id_list": {"mapped_id": [
+                        "Sprr2f",
+                        "Krt16",
+                        "Gjb6",
+                        "Spp1",
+                        "Sprr1b",
+                        "Sprr2d",
+                        "S100a9",
+                        "Krt6b",
+                        "Rtn4"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 1086,
+                "term": {
+                    "level": 2,
+                    "id": "GO:0008219",
+                    "label": "cell death"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 6,
+                    "fold_enrichment": 23.06526548672566,
+                    "fdr": 0.0015951957670181924,
+                    "expected": 0.26013140856553646,
+                    "pValue": 2.0109622023551118E-7,
+                    "mapped_id_list": {"mapped_id": [
+                        "Lce3a",
+                        "Sprr2f",
+                        "Krt16",
+                        "Sprr1b",
+                        "Sprr2d",
+                        "Krt6b"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 226,
+                "term": {
+                    "level": 1,
+                    "id": "GO:0031424",
+                    "label": "keratinization"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 6,
+                    "fold_enrichment": 19.37825278810409,
+                    "fdr": 0.002164745720255972,
+                    "expected": 0.3096254376288907,
+                    "pValue": 5.457915462353538E-7,
+                    "mapped_id_list": {"mapped_id": [
+                        "Lce3a",
+                        "Sprr2f",
+                        "Krt16",
+                        "Sprr1b",
+                        "Sprr2d",
+                        "Krt6b"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 269,
+                "term": {
+                    "level": 2,
+                    "id": "GO:0030216",
+                    "label": "keratinocyte differentiation"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 6,
+                    "fold_enrichment": 16.34090909090909,
+                    "fdr": 0.003820553205476274,
+                    "expected": 0.3671766342141864,
+                    "pValue": 1.4448987855567377E-6,
+                    "mapped_id_list": {"mapped_id": [
+                        "Lce3a",
+                        "Sprr2f",
+                        "Krt16",
+                        "Sprr1b",
+                        "Sprr2d",
+                        "Krt6b"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 319,
+                "term": {
+                    "level": 3,
+                    "id": "GO:0009913",
+                    "label": "epidermal cell differentiation"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 7,
+                    "fold_enrichment": 8.904160566129818,
+                    "fdr": 0.010034449344202266,
+                    "expected": 0.7861493453551389,
+                    "pValue": 8.854856023878459E-6,
+                    "mapped_id_list": {"mapped_id": [
+                        "Lce3a",
+                        "Sprr2f",
+                        "Krt16",
+                        "Sprr1b",
+                        "Sprr2d",
+                        "Krt6b",
+                        "Rtn4"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 683,
+                "term": {
+                    "level": 4,
+                    "id": "GO:0030855",
+                    "label": "epithelial cell differentiation"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 8,
+                    "fold_enrichment": 6.20011894142135,
+                    "fdr": 0.02251511622321923,
+                    "expected": 1.290297827442329,
+                    "pValue": 2.4125873040953475E-5,
+                    "mapped_id_list": {"mapped_id": [
+                        "Lce3a",
+                        "Sprr2f",
+                        "Krt16",
+                        "Tnc",
+                        "Sprr1b",
+                        "Sprr2d",
+                        "Krt6b",
+                        "Rtn4"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 1121,
+                "term": {
+                    "level": 5,
+                    "id": "GO:0060429",
+                    "label": "epithelium development"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 12,
+                    "fold_enrichment": 5.913499716392512,
+                    "fdr": 0.0022409597591496393,
+                    "expected": 2.0292551915975254,
+                    "pValue": 1.4125179698390416E-7,
+                    "mapped_id_list": {"mapped_id": [
+                        "Lce3a",
+                        "Mmp13",
+                        "Sprr2f",
+                        "Krt16",
+                        "Tnc",
+                        "Timp1",
+                        "Spp1",
+                        "Ankrd1",
+                        "Sprr1b",
+                        "Sprr2d",
+                        "Krt6b",
+                        "Rtn4"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 1763,
+                "term": {
+                    "level": 6,
+                    "id": "GO:0009888",
+                    "label": "tissue development"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 16,
+                    "fold_enrichment": 2.6222725271961265,
+                    "fdr": 0.0226756085958607,
+                    "expected": 6.1015778619730465,
+                    "pValue": 2.5727132349542556E-5,
+                    "mapped_id_list": {"mapped_id": [
+                        "Lce3a",
+                        "Mmp13",
+                        "Krt16",
+                        "Tnc",
+                        "Timp1",
+                        "Ankrd1",
+                        "Sprr1b",
+                        "Sprr2d",
+                        "Krt6b",
+                        "Rtn4",
+                        "Per2",
+                        "Ggnbp2",
+                        "Sprr2f",
+                        "Gjb6",
+                        "Spp1",
+                        "S100a9"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 5301,
+                "term": {
+                    "level": 7,
+                    "id": "GO:0048856",
+                    "label": "anatomical structure development"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 17,
+                    "fold_enrichment": 2.561918184446372,
+                    "fdr": 0.013606404812590093,
+                    "expected": 6.6356529662845904,
+                    "pValue": 1.3722185754897036E-5,
+                    "mapped_id_list": {"mapped_id": [
+                        "Lce3a",
+                        "Mmp13",
+                        "Krt16",
+                        "Tnc",
+                        "Timp1",
+                        "Ankrd1",
+                        "Sprr1b",
+                        "Sprr2d",
+                        "Krt6b",
+                        "Rtn4",
+                        "Per2",
+                        "Ggnbp2",
+                        "Sprr2f",
+                        "Gjb6",
+                        "Spp1",
+                        "S100a9",
+                        "Ddx6"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 5765,
+                "term": {
+                    "level": 8,
+                    "id": "GO:0032502",
+                    "label": "developmental process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 14,
+                    "fold_enrichment": 3.4358992467043317,
+                    "fdr": 0.00854807172214876,
+                    "expected": 4.074624718238933,
+                    "pValue": 5.926806740853222E-6,
+                    "mapped_id_list": {"mapped_id": [
+                        "Lce3a",
+                        "Krt16",
+                        "Tnc",
+                        "Ankrd1",
+                        "Sprr1b",
+                        "Sprr2d",
+                        "Krt6b",
+                        "Rtn4",
+                        "Per2",
+                        "Ggnbp2",
+                        "Sprr2f",
+                        "Spp1",
+                        "S100a9",
+                        "Ddx6"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 3540,
+                "term": {
+                    "level": 5,
+                    "id": "GO:0030154",
+                    "label": "cell differentiation"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 14,
+                    "fold_enrichment": 3.3823924731182795,
+                    "fdr": 0.008744277075999554,
+                    "expected": 4.1390820584144645,
+                    "pValue": 7.165181341821255E-6,
+                    "mapped_id_list": {"mapped_id": [
+                        "Lce3a",
+                        "Krt16",
+                        "Tnc",
+                        "Ankrd1",
+                        "Sprr1b",
+                        "Sprr2d",
+                        "Krt6b",
+                        "Rtn4",
+                        "Per2",
+                        "Ggnbp2",
+                        "Sprr2f",
+                        "Spp1",
+                        "S100a9",
+                        "Ddx6"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 3596,
+                "term": {
+                    "level": 6,
+                    "id": "GO:0048869",
+                    "label": "cellular developmental process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 6,
+                    "fold_enrichment": 12.323286052009456,
+                    "fdr": 0.009456279034429806,
+                    "expected": 0.48688312311160137,
+                    "pValue": 7.152558992320055E-6,
+                    "mapped_id_list": {"mapped_id": [
+                        "Lce3a",
+                        "Sprr2f",
+                        "Krt16",
+                        "Sprr1b",
+                        "Sprr2d",
+                        "Krt6b"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 423,
+                "term": {
+                    "level": 4,
+                    "id": "GO:0008544",
+                    "label": "epidermis development"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 6,
+                    "fold_enrichment": 13.681758530183728,
+                    "fdr": 0.006286255527037337,
+                    "expected": 0.43854011797995296,
+                    "pValue": 3.9623419647257085E-6,
+                    "mapped_id_list": {"mapped_id": [
+                        "Lce3a",
+                        "Sprr2f",
+                        "Krt16",
+                        "Sprr1b",
+                        "Sprr2d",
+                        "Krt6b"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 381,
+                "term": {
+                    "level": 3,
+                    "id": "GO:0043588",
+                    "label": "skin development"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 14,
+                    "fold_enrichment": 3.745944974848578,
+                    "fdr": 0.003642568777411962,
+                    "expected": 3.737374706249101,
+                    "pValue": 2.0663800187020272E-6,
+                    "mapped_id_list": {"mapped_id": [
+                        "Lce3a",
+                        "Mmp13",
+                        "Krt16",
+                        "Tnc",
+                        "Timp1",
+                        "Ankrd1",
+                        "Sprr1b",
+                        "Sprr2d",
+                        "Krt6b",
+                        "Rtn4",
+                        "Ggnbp2",
+                        "Sprr2f",
+                        "Gjb6",
+                        "Spp1"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 3247,
+                "term": {
+                    "level": 4,
+                    "id": "GO:0048513",
+                    "label": "animal organ development"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 16,
+                    "fold_enrichment": 3.2199830128947577,
+                    "fdr": 0.003441163971035767,
+                    "expected": 4.968970313174427,
+                    "pValue": 1.5183200628585169E-6,
+                    "mapped_id_list": {"mapped_id": [
+                        "Lce3a",
+                        "Mmp13",
+                        "Krt16",
+                        "Tnc",
+                        "Timp1",
+                        "Ankrd1",
+                        "Sprr1b",
+                        "Sprr2d",
+                        "Krt6b",
+                        "Rtn4",
+                        "Per2",
+                        "Ggnbp2",
+                        "Sprr2f",
+                        "Gjb6",
+                        "Spp1",
+                        "S100a9"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 4317,
+                "term": {
+                    "level": 5,
+                    "id": "GO:0048731",
+                    "label": "system development"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 16,
+                    "fold_enrichment": 2.8334012773474653,
+                    "fdr": 0.009488311197103548,
+                    "expected": 5.6469234089492115,
+                    "pValue": 8.970984428399194E-6,
+                    "mapped_id_list": {"mapped_id": [
+                        "Lce3a",
+                        "Mmp13",
+                        "Krt16",
+                        "Tnc",
+                        "Timp1",
+                        "Ankrd1",
+                        "Sprr1b",
+                        "Sprr2d",
+                        "Krt6b",
+                        "Rtn4",
+                        "Per2",
+                        "Ggnbp2",
+                        "Sprr2f",
+                        "Gjb6",
+                        "Spp1",
+                        "S100a9"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 4906,
+                "term": {
+                    "level": 6,
+                    "id": "GO:0007275",
+                    "label": "multicellular organism development"
+                }
+            }
+        ]},
+        {"result": [
+            {
+                "input_list": {
+                    "number_in_list": 5,
+                    "fold_enrichment": 11.966827364554637,
+                    "fdr": 0.04461960358350925,
+                    "expected": 0.41782168720924656,
+                    "pValue": 5.343665099821467E-5,
+                    "mapped_id_list": {"mapped_id": [
+                        "Mmp13",
+                        "Tnc",
+                        "Timp1",
+                        "Spp1",
+                        "Tpsab1"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 363,
+                "term": {
+                    "level": 0,
+                    "id": "GO:0030198",
+                    "label": "extracellular matrix organization"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 5,
+                    "fold_enrichment": 11.933951465201465,
+                    "fdr": 0.042938065250066965,
+                    "expected": 0.41897271114095247,
+                    "pValue": 5.4129297510327094E-5,
+                    "mapped_id_list": {"mapped_id": [
+                        "Mmp13",
+                        "Tnc",
+                        "Timp1",
+                        "Spp1",
+                        "Tpsab1"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 364,
+                "term": {
+                    "level": 1,
+                    "id": "GO:0043062",
+                    "label": "extracellular structure organization"
+                }
+            }
+        ]}
+    ]
+}}
